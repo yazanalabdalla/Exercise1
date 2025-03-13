@@ -1,0 +1,77 @@
+#fi {
+
+background-color: yellow;
+height: 200px;
+width: 300px;
+border: 1px solid black;
+margin: 0 auto;
+margin-top: 200px;
+
+}
+
+div {
+
+border: 1px solid black;
+
+}
+
+.long {
+
+height: 200px;
+width: 400px;
+
+}
+
+.short {
+
+
+height: 200px;
+width: 200px;
+
+}
+
+.blu {
+
+background-color: blue;
+
+}
+
+.rd {
+
+background-color: red;
+
+}
+
+#lbl {
+
+height: 200px;
+width: 400px;
+background-color: blue;
+
+}
+
+
+#shr {
+
+background-color: red;
+height: 200px;
+width: 200px;
+float: right;
+
+}
+
+#shbl {
+
+background-color: blue;
+height: 200px;
+width: 200px;
+
+}
+
+#lr {
+
+background-color: red;
+height: 200px;
+width: 400px;
+}
+
